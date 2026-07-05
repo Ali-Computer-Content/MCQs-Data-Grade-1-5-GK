@@ -1,0 +1,50 @@
+1::What is the capital of France?::Berlin::Madrid::Paris::Rome::C::Paris is the capital city of France.
+2::Which planet is known as the Red Planet?::Earth::Mars::Venus::Jupiter::B::Mars appears red because of iron oxide on its surface.
+3::How many days are there in a week?::5::6::7::8::C::A week has 7 days.
+4::Which animal is called the King of the Jungle?::Tiger::Lion::Elephant::Leopard::B::The lion is commonly known as the King of the Jungle.
+5::What is the largest ocean on Earth?::Atlantic Ocean::Indian Ocean::Pacific Ocean::Arctic Ocean::C::The Pacific Ocean is the largest.
+6::Which bird cannot fly?::Eagle::Parrot::Penguin::Sparrow::C::Penguins are flightless birds.
+7::What do bees make?::Milk::Honey::Butter::Cheese::B::Bees produce honey from nectar.
+8::How many colors are there in a rainbow?::5::6::7::8::C::A rainbow has 7 colors.
+9::Which is the fastest land animal?::Lion::Horse::Cheetah::Tiger::C::The cheetah is the fastest land animal.
+10::What is the national sport of Pakistan?::Cricket::Football::Hockey::Tennis::C::Field hockey is Pakistan's national sport.
+11::Which planet is closest to the Sun?::Venus::Mercury::Earth::Mars::B::Mercury is the nearest planet to the Sun.
+12::How many months are there in a year?::10::11::12::13::C::A year contains 12 months.
+13::Which animal is the largest in the world?::Elephant::Blue Whale::Shark::Giraffe::B::The blue whale is the largest animal ever known.
+14::Which gas do plants use to make food?::Oxygen::Nitrogen::Carbon Dioxide::Hydrogen::C::Plants use carbon dioxide during photosynthesis.
+15::What is the capital of Pakistan?::Karachi::Lahore::Islamabad::Peshawar::C::Islamabad is the capital city of Pakistan.
+16::Which shape has three sides?::Square::Triangle::Rectangle::Circle::B::A triangle has three sides.
+17::Which is the tallest animal?::Elephant::Camel::Giraffe::Horse::C::The giraffe is the tallest animal.
+18::How many legs does a spider have?::6::8::10::12::B::Spiders have eight legs.
+19::Which continent is the largest?::Africa::Europe::Asia::Australia::C::Asia is the largest continent.
+20::What is H2O commonly called?::Salt::Water::Sugar::Air::B::H2O is the chemical formula for water.
+21::Which fruit keeps the doctor away according to a famous saying?::Banana::Apple::Orange::Mango::B::The saying is “An apple a day keeps the doctor away.”
+22::How many hours are there in a day?::12::18::24::36::C::A day has 24 hours.
+23::Which planet is famous for its rings?::Mars::Venus::Saturn::Mercury::C::Saturn is known for its rings.
+24::What is the largest desert in the world?::Gobi::Sahara::Arabian::Kalahari::B::The Sahara is the largest hot desert.
+25::Which animal is known for carrying its baby in a pouch?::Rabbit::Kangaroo::Deer::Horse::B::Kangaroos carry babies in a pouch.
+26::What is the freezing point of water?::0°C::10°C::50°C::100°C::A::Water freezes at 0°C.
+27::Which is the smallest continent?::Europe::Australia::Africa::South America::B::Australia is the smallest continent.
+28::What is the capital of Japan?::Kyoto::Tokyo::Osaka::Nagoya::B::Tokyo is Japan's capital.
+29::How many planets are in our solar system?::7::8::9::10::B::There are 8 recognized planets.
+30::Which organ pumps blood through the body?::Brain::Lungs::Heart::Kidney::C::The heart pumps blood.
+31::Which animal is known as man's best friend?::Cat::Dog::Horse::Rabbit::B::Dogs are commonly called man's best friend.
+32::What is the national flower of Pakistan?::Rose::Jasmine::Tulip::Sunflower::B::Jasmine is Pakistan's national flower.
+33::Which is the largest mammal?::Elephant::Blue Whale::Rhino::Hippo::B::The blue whale is the largest mammal.
+34::How many minutes are in one hour?::30::45::60::90::C::One hour contains 60 minutes.
+35::Which country is famous for the pyramids?::India::China::Egypt::Greece::C::The pyramids are in Egypt.
+36::What do caterpillars become?::Birds::Butterflies::Bees::Ants::B::Caterpillars transform into butterflies.
+37::Which star is closest to Earth?::Sirius::Sun::Polaris::Vega::B::The Sun is Earth's nearest star.
+38::How many teeth does an adult usually have?::28::30::32::34::C::Adults typically have 32 teeth.
+39::What is the national animal of Pakistan?::Lion::Markhor::Tiger::Leopard::B::The Markhor is Pakistan's national animal.
+40::Which metal is liquid at room temperature?::Iron::Mercury::Gold::Silver::B::Mercury is liquid at room temperature.
+41::Which planet is called the Morning Star?::Mars::Venus::Jupiter::Saturn::B::Venus is often called the Morning Star.
+42::How many continents are there?::5::6::7::8::C::There are 7 continents.
+43::Which bird is known for mimicking sounds?::Crow::Parrot::Owl::Eagle::B::Parrots can imitate sounds and speech.
+44::What is the largest country by area?::China::USA::Russia::Canada::C::Russia is the largest country.
+45::Which sense organ helps us hear?::Eye::Ear::Nose::Tongue::B::Ears help us hear sounds.
+46::Which is the hardest natural substance?::Iron::Gold::Diamond::Silver::C::Diamond is the hardest natural substance.
+47::How many sides does a square have?::3::4::5::6::B::A square has four equal sides.
+48::Which vitamin do we get from sunlight?::Vitamin A::Vitamin B::Vitamin D::Vitamin C::C::Sunlight helps the body produce Vitamin D.
+49::Which ocean lies between Africa and Australia?::Atlantic Ocean::Indian Ocean::Pacific Ocean::Arctic Ocean::B::The Indian Ocean lies between them.
+50::What is the baby of a frog called?::Calf::Cub::Tadpole::Puppy::C::A young frog is called a tadpole.

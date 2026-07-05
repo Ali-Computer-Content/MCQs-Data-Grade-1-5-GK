@@ -1,0 +1,200 @@
+1::What planet do we live on?::Mars::Earth::Venus::Jupiter::B::Earth is the planet where humans live.
+2::How many continents are there on Earth?::5::6::7::8::C::There are 7 continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia.
+3::What is the largest ocean on Earth?::Atlantic Ocean::Indian Ocean::Pacific Ocean::Arctic Ocean::C::The Pacific Ocean is the largest ocean.
+4::Which animal is known as the King of the Jungle?::Tiger::Elephant::Lion::Leopard::C::The lion is often called the King of the Jungle.
+5::How many days are there in a week?::5::6::7::8::C::A week has 7 days.
+6::Which planet is called the Red Planet?::Mercury::Mars::Venus::Saturn::B::Mars appears red due to iron oxide on its surface.
+7::What is the capital of France?::Berlin::Rome::Madrid::Paris::D::Paris is the capital city of France.
+8::How many legs does a spider have?::6::8::10::12::B::Spiders have 8 legs.
+9::Which bird cannot fly?::Eagle::Penguin::Parrot::Sparrow::B::Penguins are flightless birds.
+10::What is the largest mammal in the world?::Elephant::Giraffe::Blue Whale::Rhino::C::The Blue Whale is the largest mammal.
+11::Which gas do plants absorb from the air?::Oxygen::Carbon Dioxide::Nitrogen::Hydrogen::B::Plants absorb carbon dioxide during photosynthesis.
+12::How many months are there in a year?::10::11::12::13::C::A year has 12 months.
+13::What is the capital of Pakistan?::Lahore::Karachi::Islamabad::Peshawar::C::Islamabad is the capital of Pakistan.
+14::Which is the fastest land animal?::Lion::Tiger::Cheetah::Horse::C::The cheetah is the fastest land animal.
+15::What is the national bird of the United States?::Eagle::Falcon::Parrot::Owl::A::The Bald Eagle is the national bird of the United States.
+16::Which star is closest to Earth?::Polaris::Sirius::Sun::Betelgeuse::C::The Sun is the closest star to Earth.
+17::How many colors are in a rainbow?::5::6::7::8::C::A rainbow has 7 colors.
+18::Which continent is the largest?::Africa::Europe::Asia::Australia::C::Asia is the largest continent.
+19::What do bees make?::Milk::Honey::Wax::Sugar::B::Bees produce honey from nectar.
+20::Which planet is the largest in our solar system?::Earth::Jupiter::Saturn::Neptune::B::Jupiter is the largest planet.
+21::How many hours are in a day?::12::18::24::36::C::A day has 24 hours.
+22::Which animal is known for carrying its baby in a pouch?::Tiger::Kangaroo::Elephant::Bear::B::Kangaroos carry babies in a pouch.
+23::What is H2O commonly called?::Salt::Sugar::Water::Oxygen::C::H2O is water.
+24::Which country is famous for the pyramids?::India::China::Egypt::Brazil::C::Egypt is famous for the pyramids.
+25::What is the largest desert in the world?::Gobi::Sahara::Kalahari::Arabian::B::The Sahara is the largest hot desert.
+26::How many planets are in our solar system?::7::8::9::10::B::There are 8 recognized planets.
+27::What is the capital of Japan?::Kyoto::Osaka::Tokyo::Nagoya::C::Tokyo is Japan's capital.
+28::Which organ pumps blood through the body?::Brain::Lungs::Heart::Kidneys::C::The heart pumps blood.
+29::What is the tallest animal in the world?::Elephant::Camel::Giraffe::Horse::C::The giraffe is the tallest animal.
+30::Which metal is liquid at room temperature?::Gold::Mercury::Silver::Copper::B::Mercury is liquid at room temperature.
+31::What is the smallest planet in our solar system?::Mars::Mercury::Venus::Earth::B::Mercury is the smallest planet.
+32::Which continent is known as the Dark Continent?::Asia::Africa::Europe::Australia::B::Africa was historically called the Dark Continent.
+33::What do caterpillars become?::Birds::Butterflies::Bees::Dragonflies::B::Caterpillars transform into butterflies.
+34::How many sides does a hexagon have?::5::6::7::8::B::A hexagon has 6 sides.
+35::Which ocean lies between Africa and Australia?::Pacific::Atlantic::Indian::Arctic::C::The Indian Ocean lies between them.
+36::What is the capital of China?::Shanghai::Beijing::Hong Kong::Shenzhen::B::Beijing is the capital of China.
+37::Which is the largest bird in the world?::Eagle::Ostrich::Peacock::Swan::B::The ostrich is the largest bird.
+38::What is the freezing point of water?::0°C::10°C::32°C::100°C::A::Water freezes at 0°C.
+39::Which planet has rings around it?::Mars::Earth::Saturn::Venus::C::Saturn is famous for its rings.
+40::Which is the longest river in the world?::Amazon::Yangtze::Mississippi::Nile::D::The Nile is commonly taught as the longest river.
+41::What is the capital of Australia?::Sydney::Melbourne::Canberra::Perth::C::Canberra is Australia's capital.
+42::How many teeth does a typical adult have?::28::30::32::34::C::Most adults have 32 teeth.
+43::Which is the largest continent by population?::Africa::Europe::Asia::North America::C::Asia has the largest population.
+44::What is the national animal of Pakistan?::Lion::Markhor::Tiger::Camel::B::The Markhor is Pakistan's national animal.
+45::Which gas do humans need to breathe?::Nitrogen::Carbon Dioxide::Oxygen::Helium::C::Humans breathe oxygen.
+46::How many minutes are in an hour?::50::60::70::80::B::There are 60 minutes in an hour.
+47::Which country gifted the Statue of Liberty to the USA?::Germany::France::Italy::Spain::B::France gifted the Statue of Liberty.
+48::What is the largest island in the world?::Australia::Greenland::Madagascar::Borneo::B::Greenland is the largest island.
+49::Which animal is known as man's best friend?::Cat::Horse::Dog::Rabbit::C::Dogs are often called man's best friend.
+50::Which planet is closest to the Sun?::Venus::Earth::Mercury::Mars::C::Mercury is closest to the Sun.
+51::What is the capital of Canada?::Toronto::Ottawa::Vancouver::Montreal::B::Ottawa is Canada's capital.
+52::How many bones are in the adult human body?::196::206::216::226::B::Adults typically have 206 bones.
+53::Which continent is the smallest?::Europe::Australia::Antarctica::South America::B::Australia is the smallest continent.
+54::Which animal can change its color?::Elephant::Camel::Chameleon::Horse::C::Chameleons can change color.
+55::Which planet is known as Earth's twin?::Mars::Venus::Mercury::Neptune::B::Venus is similar in size to Earth.
+56::What is the capital of Italy?::Rome::Venice::Milan::Naples::A::Rome is the capital of Italy.
+57::How many seconds are in a minute?::50::60::70::100::B::There are 60 seconds in a minute.
+58::Which is the largest cat species?::Lion::Tiger::Leopard::Cheetah::B::The tiger is the largest cat species.
+59::What is the main source of energy for Earth?::Moon::Sun::Wind::Water::B::The Sun provides most energy to Earth.
+60::Which country is known as the Land of the Rising Sun?::China::Japan::Thailand::Korea::B::Japan is known by this nickname.
+61::How many planets have rings?::2::3::4::5::C::Jupiter, Saturn, Uranus, and Neptune have rings.
+62::Which blood type is called the universal donor?::A::B::AB::O Negative::D::O Negative can donate to most blood types.
+63::What is the hardest natural substance?::Iron::Gold::Diamond::Silver::C::Diamond is the hardest natural substance.
+64::Which is the largest rainforest?::Congo::Amazon::Daintree::Sundarbans::B::The Amazon is the largest rainforest.
+65::Which planet is famous for its Great Red Spot?::Saturn::Mars::Jupiter::Neptune::C::The Great Red Spot is a giant storm on Jupiter.
+66::What is the capital of Germany?::Munich::Berlin::Hamburg::Frankfurt::B::Berlin is Germany's capital.
+67::Which animal is the tallest mammal?::Elephant::Giraffe::Camel::Horse::B::The giraffe is the tallest mammal.
+68::How many players are on a soccer team on the field?::9::10::11::12::C::A soccer team fields 11 players.
+69::What is the largest organ in the human body?::Heart::Brain::Skin::Liver::C::The skin is the body's largest organ.
+70::Which ocean is the smallest?::Atlantic::Indian::Pacific::Arctic::D::The Arctic Ocean is the smallest.
+71::What is the capital of Saudi Arabia?::Jeddah::Riyadh::Dammam::Mecca::B::Riyadh is the capital.
+72::Which animal is known for its black-and-white stripes?::Tiger::Horse::Zebra::Donkey::C::Zebras have black-and-white stripes.
+73::Which is the nearest planet to Earth?::Mars::Venus::Mercury::Saturn::B::Venus is generally the nearest neighboring planet.
+74::What is the currency of the United Kingdom?::Euro::Dollar::Pound Sterling::Yen::C::The UK uses the Pound Sterling.
+75::Which is the largest country by area?::Canada::China::Russia::USA::C::Russia is the largest country.
+76::How many chambers does the human heart have?::2::3::4::5::C::The heart has 4 chambers.
+77::Which country is home to the Great Wall?::Japan::India::China::Mongolia::C::The Great Wall is in China.
+78::Which is the world's largest hot desert?::Arabian::Sahara::Gobi::Kalahari::B::The Sahara is the largest hot desert.
+79::What is the national flower of Pakistan?::Rose::Sunflower::Jasmine::Tulip::C::Jasmine is Pakistan's national flower.
+80::How many stripes are on the US flag?::11::12::13::14::C::The US flag has 13 stripes.
+81::Which vitamin is produced by sunlight on skin?::Vitamin A::Vitamin B::Vitamin C::Vitamin D::D::Sunlight helps the body make Vitamin D.
+82::What is the capital of Turkey?::Istanbul::Ankara::Izmir::Bursa::B::Ankara is the capital.
+83::Which is the largest species of shark?::Great White::Hammerhead::Whale Shark::Tiger Shark::C::The Whale Shark is the largest shark.
+84::Which instrument has black and white keys?::Drum::Violin::Piano::Flute::C::A piano has black and white keys.
+85::How many continents are crossed by the Equator?::2::3::4::5::B::The Equator crosses South America, Africa, and Asia (Indonesia).
+86::Which country has the maple leaf on its flag?::USA::Canada::Australia::New Zealand::B::Canada's flag features a maple leaf.
+87::What is the boiling point of water at sea level?::50°C::75°C::100°C::125°C::C::Water boils at 100°C at sea level.
+88::Which is the largest moon in our solar system?::Moon::Titan::Europa::Ganymede::D::Ganymede is the largest moon.
+89::Which animal is known for building dams?::Otter::Beaver::Seal::Walrus::B::Beavers build dams.
+90::What is the capital of India?::Mumbai::Delhi::New Delhi::Kolkata::C::New Delhi is India's capital.
+91::How many stars are on the US flag?::48::49::50::51::C::There are 50 stars.
+92::Which is the deepest ocean?::Atlantic::Indian::Arctic::Pacific::D::The Pacific contains the Mariana Trench.
+93::Which gas makes up most of Earth's atmosphere?::Oxygen::Nitrogen::Carbon Dioxide::Hydrogen::B::Nitrogen makes up about 78%.
+94::Which country is famous for kangaroos?::South Africa::Australia::Brazil::Argentina::B::Kangaroos are native to Australia.
+95::What is the capital of Russia?::Moscow::St. Petersburg::Kazan::Sochi::A::Moscow is Russia's capital.
+96::How many planets are called gas giants?::2::3::4::5::C::Jupiter, Saturn, Uranus, and Neptune.
+97::Which famous ship hit an iceberg in 1912?::Queen Mary::Titanic::Mayflower::Endeavour::B::The Titanic sank in 1912.
+98::Which is the largest volcano on Earth?::Fuji::Etna::Mauna Loa::Vesuvius::C::Mauna Loa is Earth's largest active volcano.
+99::What is the capital of Brazil?::Rio de Janeiro::São Paulo::Brasília::Salvador::C::Brasília is the capital.
+100::Which planet is farthest from the Sun?::Saturn::Uranus::Neptune::Mars::C::Neptune is the farthest recognized planet from the Sun.
+101::Which planet is known for having the most prominent ring system?::Mars::Saturn::Venus::Mercury::B::Saturn is famous for its large and visible rings.
+102::What is the capital of South Korea?::Busan::Incheon::Seoul::Daegu::C::Seoul is the capital of South Korea.
+103::Which animal is the largest land mammal?::Giraffe::Hippopotamus::Elephant::Rhinoceros::C::The African elephant is the largest land mammal.
+104::How many sides does a heptagon have?::6::7::8::9::B::A heptagon has 7 sides.
+105::Which ocean is on the east coast of North America?::Indian Ocean::Pacific Ocean::Arctic Ocean::Atlantic Ocean::D::The Atlantic Ocean borders the east coast.
+106::What is the capital of Spain?::Barcelona::Madrid::Valencia::Seville::B::Madrid is Spain's capital city.
+107::Which planet rotates on its side?::Earth::Mars::Uranus::Mercury::C::Uranus rotates almost sideways.
+108::What is the largest species of penguin?::King Penguin::Emperor Penguin::Gentoo Penguin::Rockhopper Penguin::B::The Emperor Penguin is the largest penguin.
+109::Which gas is most abundant in Earth's atmosphere?::Oxygen::Carbon Dioxide::Nitrogen::Helium::C::Nitrogen makes up about 78% of the atmosphere.
+110::What is the capital of Argentina?::Cordoba::Rosario::Mendoza::Buenos Aires::D::Buenos Aires is the capital.
+111::Which animal is known as the "Ship of the Desert"?::Horse::Camel::Donkey::Llama::B::Camels are called the Ship of the Desert.
+112::How many years are in a century?::10::50::100::1000::C::A century equals 100 years.
+113::Which country is famous for the Eiffel Tower?::Italy::Spain::France::Germany::C::The Eiffel Tower is in France.
+114::What is the world's largest coral reef system?::Belize Reef::Red Sea Reef::Great Barrier Reef::Florida Reef::C::The Great Barrier Reef is the largest.
+115::Which planet has the shortest year?::Mercury::Venus::Earth::Mars::A::Mercury orbits the Sun in about 88 days.
+116::What is the capital of Egypt?::Alexandria::Cairo::Giza::Luxor::B::Cairo is Egypt's capital.
+117::Which bird is a symbol of peace?::Crow::Pigeon/Dove::Eagle::Parrot::B::The dove symbolizes peace.
+118::What is the largest continent by land area?::Africa::Europe::Asia::North America::C::Asia is the largest continent.
+119::Which country is known for the Taj Mahal?::Pakistan::India::Nepal::Bangladesh::B::The Taj Mahal is in India.
+120::How many colors are there in the Olympic rings?::4::5::6::7::C::Blue, Yellow, Black, Green, and Red.
+121::What is the capital of Mexico?::Guadalajara::Monterrey::Cancun::Mexico City::D::Mexico City is the capital.
+122::Which animal can sleep standing up?::Elephant::Horse::Monkey::Bear::B::Horses can sleep standing up.
+123::Which ocean lies between Africa and South America?::Indian Ocean::Pacific Ocean::Atlantic Ocean::Arctic Ocean::C::The Atlantic Ocean separates them.
+124::What is the largest planet in our solar system?::Saturn::Earth::Neptune::Jupiter::D::Jupiter is the largest planet.
+125::Which country is famous for pizza's origin?::France::Italy::Greece::Turkey::B::Pizza originated in Italy.
+126::What is the capital of Thailand?::Bangkok::Phuket::Chiang Mai::Pattaya::A::Bangkok is Thailand's capital.
+127::How many strings does a standard violin have?::3::4::5::6::B::A standard violin has 4 strings.
+128::Which is the tallest mountain above sea level?::K2::Mount Everest::Kangchenjunga::Lhotse::B::Mount Everest is the tallest.
+129::Which country is home to the kangaroo?::New Zealand::Australia::South Africa::Brazil::B::Kangaroos are native to Australia.
+130::What is the capital of Nigeria?::Lagos::Abuja::Kano::Ibadan::B::Abuja is Nigeria's capital.
+131::Which planet is called the Morning Star?::Venus::Mars::Mercury::Jupiter::A::Venus is often called the Morning Star.
+132::What is the largest freshwater lake by surface area?::Lake Victoria::Lake Superior::Lake Baikal::Lake Tanganyika::B::Lake Superior is the largest by surface area.
+133::Which animal has the longest neck?::Camel::Horse::Giraffe::Ostrich::C::The giraffe has the longest neck.
+134::What is the capital of Indonesia?::Bali::Jakarta::Surabaya::Bandung::B::Jakarta is the capital.
+135::How many players are on a basketball team on the court?::4::5::6::7::B::Five players per team are on the court.
+136::Which is the smallest continent?::Europe::Australia::Antarctica::South America::B::Australia is the smallest continent.
+137::What is the capital of Sweden?::Stockholm::Gothenburg::Malmo::Uppsala::A::Stockholm is Sweden's capital.
+138::Which mammal can fly?::Flying Squirrel::Bat::Kangaroo::Rabbit::B::Bats are true flying mammals.
+139::What is the main language spoken in Brazil?::Spanish::Portuguese::French::English::B::Portuguese is Brazil's official language.
+140::Which planet is known for its blue color?::Mars::Mercury::Neptune::Venus::C::Neptune appears deep blue.
+141::What is the capital of Kenya?::Mombasa::Nairobi::Kisumu::Nakuru::B::Nairobi is Kenya's capital.
+142::Which instrument measures temperature?::Barometer::Thermometer::Compass::Scale::B::A thermometer measures temperature.
+143::Which country is famous for tulips and windmills?::Belgium::Netherlands::Denmark::Switzerland::B::The Netherlands is famous for both.
+144::How many hearts does an octopus have?::1::2::3::4::C::An octopus has 3 hearts.
+145::What is the capital of Norway?::Oslo::Bergen::Trondheim::Stavanger::A::Oslo is Norway's capital.
+146::Which planet has the most moons currently known?::Earth::Mars::Saturn::Venus::C::Saturn currently holds the record for known moons.
+147::Which is the largest ocean on Earth?::Atlantic Ocean::Indian Ocean::Pacific Ocean::Arctic Ocean::C::The Pacific Ocean is the largest.
+148::What is the capital of Switzerland?::Zurich::Geneva::Bern::Basel::C::Bern is Switzerland's federal capital.
+149::Which animal is known for its black-and-white coloring and eating bamboo?::Koala::Panda::Bear::Lemur::B::Giant pandas primarily eat bamboo.
+150::What is the national sport of Pakistan?::Football::Cricket::Hockey::Squash::C::Field hockey is Pakistan's national sport.
+151::What is the capital of New Zealand?::Auckland::Wellington::Christchurch::Hamilton::B::Wellington is the capital of New Zealand.
+152::Which bird is known for mimicking human speech?::Crow::Parrot::Eagle::Sparrow::B::Parrots can imitate human speech.
+153::Which country is known as the Land of a Thousand Lakes?::Canada::Norway::Finland::Sweden::C::Finland is known for its many lakes.
+154::How many planets are in our solar system?::7::8::9::10::B::There are 8 recognized planets.
+155::What is the capital of Greece?::Athens::Sparta::Patras::Thessaloniki::A::Athens is the capital of Greece.
+156::Which animal is the largest reptile?::Python::Komodo Dragon::Crocodile::Alligator::C::The saltwater crocodile is the largest reptile.
+157::What is the currency of Japan?::Won::Dollar::Yuan::Yen::D::Japan uses the Yen.
+158::Which planet is famous for the Great Red Spot?::Saturn::Mars::Jupiter::Neptune::C::The Great Red Spot is a giant storm on Jupiter.
+159::What is the capital of Portugal?::Porto::Lisbon::Braga::Coimbra::B::Lisbon is the capital of Portugal.
+160::Which ocean is west of North and South America?::Atlantic Ocean::Indian Ocean::Pacific Ocean::Arctic Ocean::C::The Pacific Ocean lies to the west.
+161::What is the largest species of bear?::Black Bear::Brown Bear::Polar Bear::Panda Bear::C::Polar bears are the largest bears.
+162::What is the capital of South Africa?::Cape Town::Pretoria::Bloemfontein::All of these::D::South Africa has three capital cities serving different functions.
+163::Which gas do humans breathe out?::Oxygen::Nitrogen::Carbon Dioxide::Hydrogen::C::Humans exhale carbon dioxide.
+164::What is the capital of Ireland?::Cork::Galway::Limerick::Dublin::D::Dublin is Ireland's capital.
+165::Which animal is known for its hump?::Horse::Camel::Donkey::Buffalo::B::Camels store fat in their humps.
+166::What is the largest country in South America?::Argentina::Brazil::Chile::Peru::B::Brazil is the largest country in South America.
+167::Which planet is closest in size to Earth?::Venus::Mars::Mercury::Jupiter::A::Venus is very similar in size to Earth.
+168::What is the capital of Malaysia?::Kuala Lumpur::Johor Bahru::Penang::Malacca::A::Kuala Lumpur is Malaysia's capital.
+169::Which animal is famous for its black-and-white stripes?::Tiger::Horse::Zebra::Donkey::C::Zebras are known for their stripes.
+170::How many oceans are there on Earth?::3::4::5::6::C::Earth has 5 oceans.
+171::What is the capital of Austria?::Salzburg::Vienna::Graz::Linz::B::Vienna is Austria's capital.
+172::Which is the largest moon of Saturn?::Europa::Titan::Io::Callisto::B::Titan is Saturn's largest moon.
+173::Which country is famous for the Great Pyramids?::Sudan::Egypt::Jordan::Morocco::B::The Great Pyramids are in Egypt.
+174::What is the capital of Vietnam?::Ho Chi Minh City::Da Nang::Hanoi::Hue::C::Hanoi is the capital of Vietnam.
+175::Which animal is known for changing color to blend into surroundings?::Monkey::Fox::Chameleon::Wolf::C::Chameleons can change color.
+176::Which is the longest mountain range in the world on land?::Rockies::Andes::Himalayas::Alps::B::The Andes are the longest continental mountain range.
+177::What is the capital of Belgium?::Brussels::Antwerp::Ghent::Bruges::A::Brussels is the capital of Belgium.
+178::Which sea creature has eight arms?::Squid::Jellyfish::Octopus::Starfish::C::An octopus has eight arms.
+179::Which country is famous for the ancient city of Petra?::Jordan::Egypt::Israel::Lebanon::A::Petra is located in Jordan.
+180::What is the capital of Chile?::Valparaiso::Santiago::Concepcion::Antofagasta::B::Santiago is Chile's capital.
+181::Which planet takes the longest time to orbit the Sun?::Saturn::Uranus::Neptune::Jupiter::C::Neptune takes about 165 Earth years.
+182::What is the largest island country in the world?::Japan::Indonesia::Philippines::Madagascar::B::Indonesia is the world's largest island nation.
+183::What is the capital of Denmark?::Odense::Aarhus::Copenhagen::Aalborg::C::Copenhagen is Denmark's capital.
+184::Which bird is the symbol of wisdom in many cultures?::Crow::Owl::Eagle::Falcon::B::Owls are often associated with wisdom.
+185::Which continent has the most countries?::Asia::Europe::Africa::South America::C::Africa has 50+ recognized countries.
+186::What is the capital of Peru?::Cusco::Arequipa::Lima::Trujillo::C::Lima is Peru's capital.
+187::Which animal is the fastest bird?::Eagle::Falcon::Ostrich::Parrot::B::The Peregrine Falcon is the fastest bird.
+188::Which country is famous for maple syrup?::USA::Canada::Norway::Sweden::B::Canada produces most of the world's maple syrup.
+189::What is the capital of Hungary?::Budapest::Debrecen::Szeged::Pecs::A::Budapest is Hungary's capital.
+190::Which planet is known as the Ice Giant?::Mercury::Venus::Uranus::Mars::C::Uranus is classified as an ice giant.
+191::Which famous scientist developed the theory of gravity?::Albert Einstein::Isaac Newton::Galileo Galilei::Nikola Tesla::B::Newton formulated the law of gravity.
+192::What is the capital of the Netherlands?::Rotterdam::Amsterdam::The Hague::Utrecht::B::Amsterdam is the capital of the Netherlands.
+193::Which animal is known as the largest fish in the world?::Great White Shark::Hammerhead Shark::Whale Shark::Bluefin Tuna::C::The Whale Shark is the largest fish.
+194::What is the capital of Poland?::Warsaw::Krakow::Gdansk::Lodz::A::Warsaw is Poland's capital.
+195::Which country is home to Machu Picchu?::Chile::Peru::Bolivia::Ecuador::B::Machu Picchu is located in Peru.
+196::How many continents are completely in the Southern Hemisphere?::1::2::3::4::B::Australia and Antarctica are completely in the Southern Hemisphere.
+197::What is the capital of Finland?::Turku::Tampere::Helsinki::Oulu::C::Helsinki is Finland's capital.
+198::Which animal can rotate its head nearly 270 degrees?::Eagle::Owl::Parrot::Duck::B::Owls have remarkable neck flexibility.
+199::Which country is famous for fjords?::Finland::Norway::Denmark::Iceland::B::Norway is renowned for its fjords.
+200::What is the capital of the Czech Republic?::Brno::Ostrava::Plzen::Prague::D::Prague is the capital of the Czech Republic.

@@ -1,0 +1,200 @@
+1::What color is the sky on a sunny day?::green::blue::red::yellow::B::The sky looks blue on a clear, sunny day because of the way sunlight bounces through the air.
+2::How many legs does a dog have?::2::3::4::6::C::Dogs are four-legged animals. All dogs have 4 legs.
+3::What do we call the meal we eat in the morning?::lunch::dinner::breakfast::supper::C::The meal we eat in the morning when we wake up is called breakfast.
+4::Which animal says "moo"?::pig::cow::horse::sheep::B::Cows make a mooing sound. Farmers hear cows say "moo" on the farm.
+5::What shape is a ball?::square::triangle::circle::rectangle::C::A ball is round like a circle (or sphere in 3D). It has no corners.
+6::How many days are in one week?::5::6::7::8::C::A week has 7 days: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday.
+7::Which fruit is red and grows on a tree?::banana::apple::grapes::mango::B::Apples are red fruits that grow on apple trees.
+8::What do fish use to breathe underwater?::lungs::nose::gills::skin::C::Fish have gills that take oxygen out of the water so they can breathe underwater.
+9::What is the color of grass?::blue::green::brown::orange::B::Grass is green because it contains a green substance called chlorophyll.
+10::How many fingers do you have on both hands?::8::9::10::12::C::Each hand has 5 fingers, so both hands together have 5 + 5 = 10 fingers.
+11::Which animal is known as the "King of the Jungle"?::tiger::elephant::lion::bear::C::The lion is known as the "King of the Jungle" because of its strength and majestic mane.
+12::What do bees make?::milk::honey::butter::juice::B::Bees collect nectar from flowers and make honey in their hives.
+13::What do we use to write on paper?::spoon::pencil::fork::brush::B::A pencil is used to write or draw on paper.
+14::Which planet do we live on?::Mars::Venus::Earth::Jupiter::C::We live on planet Earth, the third planet from the Sun.
+15::What is the opposite of hot?::warm::big::cold::bright::C::Hot and cold are opposites. If something is not hot, it can be cold.
+16::How many months are in a year?::10::11::12::13::C::A year has 12 months, from January to December.
+17::Which animal has a very long neck?::elephant::giraffe::lion::horse::B::A giraffe has an extremely long neck, which helps it eat leaves from tall trees.
+18::What color is a banana?::red::green::blue::yellow::D::Ripe bananas are yellow. Unripe bananas are green.
+19::What do we use to cut paper?::knife::spoon::scissors::pen::C::Scissors have two sharp blades and are used to cut paper and other materials.
+20::Which body part do we use to smell?::ears::eyes::nose::tongue::C::We use our nose to smell things like flowers, food, and perfume.
+21::What comes after Monday?::Sunday::Wednesday::Tuesday::Thursday::C::The days of the week in order are: Monday, Tuesday, Wednesday... Tuesday comes right after Monday.
+22::What animal lives in water and has fins?::bird::fish::rabbit::cat::B::Fish live in water and use fins to swim. They breathe through gills.
+23::What do we call water that falls from the sky?::snow::rain::hail::dew::B::Rain is water that falls from clouds in the sky as liquid drops.
+24::How many sides does a square have?::2::3::4::5::C::A square has exactly 4 equal sides and 4 corners.
+25::Which meal do we eat at noon?::breakfast::lunch::dinner::brunch::B::Lunch is the meal we eat in the middle of the day, around noon.
+26::What do caterpillars turn into?::bees::butterflies::beetles::flies::B::A caterpillar makes a cocoon and transforms into a beautiful butterfly. This is called metamorphosis.
+27::What is the largest animal on land?::lion::giraffe::elephant::hippo::C::The African elephant is the largest land animal in the world.
+28::Which body part pumps blood around our body?::brain::lungs::stomach::heart::D::The heart is a muscle that pumps blood through the body to keep us alive.
+29::What color is snow?::gray::blue::white::yellow::C::Snow is white. It is made of tiny ice crystals that fall from clouds.
+30::How many wheels does a bicycle have?::1::2::3::4::B::A bicycle has 2 wheels — one in the front and one in the back.
+31::Which animal gives us milk?::hen::cow::fish::bee::B::Cows give us milk. Farmers milk cows to collect the milk we drink.
+32::What do we use to keep our teeth clean?::soap::shampoo::toothbrush::comb::C::We use a toothbrush with toothpaste to brush and clean our teeth every day.
+33::What is the Sun?::a planet::a moon::a star::a comet::C::The Sun is a star — a giant ball of hot, glowing gas that gives us light and warmth.
+34::What sound does a cat make?::woof::moo::meow::roar::C::Cats make a "meow" sound. They also purr when they are happy.
+35::How many wheels does a car have?::2::3::4::6::C::Most cars have 4 wheels — two in the front and two in the back.
+36::Which season comes after winter?::autumn::summer::spring::monsoon::C::The seasons go: winter, spring, summer, autumn (fall), then winter again. Spring comes after winter.
+37::What do we call a baby cat?::pup::kitten::cub::foal::B::A baby cat is called a kitten.
+38::Which body part do we use to see?::ears::hands::eyes::nose::C::We use our eyes to see the world around us.
+39::What is the first letter of the alphabet?::B::Z::A::C::C::The English alphabet starts with the letter A and ends with Z.
+40::What do birds use to fly?::legs::gills::fins::wings::D::Birds have wings that allow them to fly through the air.
+41::Which fruit is yellow and curved?::apple::orange::banana::grapes::C::Bananas are yellow and have a curved shape. They grow in tropical countries.
+42::What do we call the person who teaches us at school?::doctor::teacher::nurse::farmer::B::A teacher works at school and helps children learn new things every day.
+43::Which animal hops and lives in a pouch?::rabbit::frog::kangaroo::deer::C::Kangaroos hop on their back legs and carry their babies in a pouch on their belly.
+44::What is 1 + 1?::1::2::3::4::B::1 + 1 = 2. If you have 1 apple and get 1 more, you have 2 apples.
+45::Which color do you get when you mix red and white?::purple::orange::pink::brown::C::Mixing red and white paint together makes the color pink.
+46::What do we breathe to stay alive?::water::air::food::fire::B::We breathe air to survive. Air contains oxygen, which our body needs.
+47::Which vehicle flies in the sky?::car::boat::airplane::train::C::Airplanes fly in the sky by using engines and wings to stay in the air.
+48::What do we call a baby dog?::kitten::calf::pup/puppy::foal::C::A baby dog is called a puppy or a pup.
+49::How many seasons are in a year?::2::3::4::5::C::A year has 4 seasons: spring, summer, autumn (fall), and winter.
+50::What color is the sun?::white::blue::red::yellow::D::The Sun appears yellow (or orange) from Earth. It is actually white but looks yellow due to Earth's atmosphere.
+51::Which body part do we use to hear?::eyes::ears::mouth::nose::B::We use our ears to hear sounds, music, and voices.
+52::What animal is black and white and looks like a horse with stripes?::panda::zebra::tiger::cow::B::A zebra has black and white stripes all over its body and looks like a striped horse.
+53::What do we call the place where children go to learn?::hospital::market::school::library::C::Children go to school to learn reading, writing, math, and many other subjects.
+54::Which insect makes a buzzing sound and can sting?::butterfly::firefly::bee::ladybug::C::Bees buzz and can sting when they feel threatened. They also make honey.
+55::What is 2 + 2?::3::4::5::6::B::2 + 2 = 4. Two plus two equals four.
+56::Which animal is the fastest on land?::lion::elephant::cheetah::horse::C::The cheetah is the fastest land animal, running up to 70 miles per hour!
+57::What do we use to comb our hair?::brush::toothbrush::spoon::comb::D::We use a comb to untangle and neaten our hair.
+58::What color are most leaves in autumn (fall)?::green::blue::red, orange, and yellow::purple::C::In autumn, leaves change from green to beautiful shades of red, orange, and yellow before falling.
+59::How many toes do you have on both feet?::8::9::10::12::C::Each foot has 5 toes, so both feet together have 5 + 5 = 10 toes.
+60::What do we call the doctor who takes care of animals?::dentist::veterinarian::surgeon::pharmacist::B::A veterinarian (vet) is a doctor who takes care of animals' health.
+61::Which is the biggest ocean in the world?::Atlantic::Indian::Arctic::Pacific::D::The Pacific Ocean is the largest and deepest ocean on Earth.
+62::What do plants need from the sun to grow?::water::darkness::light::soil only::C::Plants need sunlight to make their own food through a process called photosynthesis.
+63::What shape is a pizza?::square::triangle::circle::rectangle::C::A pizza is round, like a circle. When you cut a slice, it looks like a triangle.
+64::What do we call frozen water?::steam::fog::ice::cloud::C::When water gets very cold (below 0°C / 32°F), it freezes and becomes ice.
+65::Which animal has 8 legs?::ant::butterfly::spider::bee::C::Spiders have 8 legs. They are not insects — they are arachnids.
+66::What does a nurse do?::teaches students::fixes cars::helps sick people::builds houses::C::A nurse works with doctors in hospitals and clinics to help take care of sick and injured people.
+67::What is 3 + 2?::4::5::6::7::B::3 + 2 = 5. Three apples plus two apples equals five apples.
+68::Which animal can swim and walk on land?::fish::turtle::shark::dolphin::B::Turtles can swim in water and also walk on land. They carry their shells on their backs.
+69::What color is a ripe tomato?::green::yellow::red::orange::C::Ripe tomatoes are red. Unripe tomatoes are green.
+70::What do we call the bright light we see in the sky during a storm?::rainbow::lightning::shooting star::meteor::B::Lightning is a bright flash of electricity in the sky during a thunderstorm.
+71::Which body part helps us walk and run?::hands::legs::ears::nose::B::We use our legs and feet to walk, run, jump, and kick.
+72::What is the name of our galaxy?::Andromeda::Black Hole::Milky Way::Solar System::C::Our solar system is part of the Milky Way galaxy, which looks like a band of stars in the night sky.
+73::What do we call a person who flies an airplane?::captain::pilot::driver::conductor::B::A pilot is the person who is trained to fly and control an airplane.
+74::Which animal has a trunk?::giraffe::rhino::elephant::hippo::C::Elephants have a long trunk that they use to drink water, pick up food, and smell things.
+75::What comes after Tuesday?::Monday::Thursday::Wednesday::Friday::C::The days of the week go: Monday, Tuesday, Wednesday. Wednesday comes after Tuesday.
+76::Which fruit is orange on the outside and orange on the inside?::apple::mango::banana::orange::D::An orange is a round citrus fruit that is orange both outside and inside.
+77::How many letters are in the English alphabet?::24::25::26::27::C::The English alphabet has 26 letters, from A to Z.
+78::What do frogs and fish have in common?::they both fly::they both swim in water::they both have fur::they both live in trees::B::Both frogs and fish can swim in water. Frogs can also hop on land, while fish stay in water.
+79::What is the opposite of big?::tall::heavy::small::long::C::Big and small are opposites. Something that is not big is small.
+80::Which meal do we eat in the evening?::breakfast::snack::lunch::dinner::D::Dinner (also called supper) is the main meal we eat in the evening.
+81::What animal makes a "quack" sound?::chicken::duck::goose::turkey::B::Ducks make a quacking sound. They also love swimming in ponds and lakes.
+82::What do trees give us to breathe?::carbon dioxide::nitrogen::oxygen::hydrogen::C::Trees and plants release oxygen during photosynthesis. We breathe in oxygen to live.
+83::Which number comes after 9?::8::7::10::11::C::When counting: ...8, 9, 10. The number after 9 is 10.
+84::What is a baby cow called?::piglet::lamb::calf::foal::C::A baby cow is called a calf. A baby sheep is a lamb and a baby horse is a foal.
+85::Which hand do most people use to write?::left hand::right hand::both hands::feet::B::Most people write with their right hand. People who write with their left hand are called left-handed.
+86::What do we call the white part of an egg?::yolk::shell::egg white::curd::C::An egg has two main parts: the yellow yolk in the middle and the egg white (albumen) around it.
+87::Which insect has colorful wings and visits flowers?::ant::mosquito::butterfly::cockroach::C::Butterflies have beautiful colorful wings and flutter from flower to flower drinking nectar.
+88::What do we call water in its gas form?::ice::rain::snow::steam::D::When water is heated and boils, it turns into steam (water vapor), which is water in gas form.
+89::Which is the tallest animal in the world?::elephant::giraffe::horse::camel::B::The giraffe is the tallest animal on Earth, with its long neck helping it reach leaves at the tops of trees.
+90::What do we use to see things that are far away?::microscope::telescope::binoculars::magnifying glass::C::Binoculars are used to see things that are far away, like birds or objects in the distance.
+91::What color is a school bus?::red::blue::yellow::green::C::School buses are painted bright yellow so they are easy to see and children are safe getting on and off.
+92::Which animal is known for its black and white colors and lives in China?::polar bear::skunk::panda::zebra::C::The giant panda lives in China and is famous for its black and white fur. It eats bamboo.
+93::What do we call the home of a bird?::den::burrow::nest::kennel::C::Birds build nests out of twigs and leaves to lay their eggs and raise their babies.
+94::How many colors are in a rainbow?::5::6::7::8::C::A rainbow has 7 colors: red, orange, yellow, green, blue, indigo, and violet. (ROY G BIV)
+95::Which body part do we use to taste food?::nose::tongue::teeth::lips::B::The tongue has taste buds that help us taste sweet, sour, salty, and bitter flavors.
+96::What do we call a place where sick people go to get better?::school::library::hospital::museum::C::A hospital is a place where doctors and nurses take care of sick or injured people.
+97::What is 5 - 2?::2::3::4::5::B::5 - 2 = 3. If you have 5 cookies and eat 2, you have 3 left.
+98::Which animal sleeps hanging upside down in caves?::owl::bat::monkey::sloth::B::Bats sleep (roost) upside down in dark caves or trees during the day and come out at night.
+99::What is the last day of the week?::Friday::Saturday::Sunday::Monday::C::Sunday is the last day of the week. The week starts on Monday and ends on Sunday.
+100::What color do you get when you mix blue and yellow?::red::purple::green::orange::C::Mixing blue and yellow paint makes green. This is an important color-mixing fact for young artists.
+101::Which animal lives in the sea and is very big with a spout?::shark::dolphin::whale::octopus::C::Whales are the largest animals in the ocean. They breathe air and shoot water from a spout on top of their heads.
+102::What do we plant in soil to grow vegetables?::eggs::seeds::stones::leaves::B::We plant seeds in soil and give them water and sunlight, and they grow into plants and vegetables.
+103::Which season is the hottest?::winter::spring::summer::autumn::C::Summer is the hottest season of the year, with long sunny days and warm weather.
+104::What do we call a person who puts out fires?::police officer::soldier::firefighter::lifeguard::C::A firefighter is a brave person who fights fires and rescues people in emergencies.
+105::Which planet is closest to the Sun?::Mars::Earth::Venus::Mercury::D::Mercury is the closest planet to the Sun in our solar system. It is also the smallest planet.
+106::What is the opposite of day?::morning::evening::night::noon::C::Day and night are opposites. When the sun is shining it is day; when it is dark, it is night.
+107::What do we call the place where planes take off and land?::harbor::station::airport::garage::C::An airport is a place with runways where airplanes take off, land, and passengers board flights.
+108::Which animal is known for changing colors to blend in with its surroundings?::frog::chameleon::lizard::gecko::B::A chameleon can change the color of its skin to match its surroundings. This is called camouflage.
+109::What do we call the person who delivers our letters and packages?::plumber::postman/mailman::carpenter::electrician::B::A postman (mail carrier) collects and delivers letters, cards, and packages to our homes.
+110::What is 4 + 3?::5::6::7::8::C::4 + 3 = 7. Count on from 4: five, six, seven. The answer is 7.
+111::Which animal has stripes and is in the cat family?::cheetah::jaguar::tiger::panther::C::Tigers have beautiful orange and black stripes. They are the largest wild cats in the world.
+112::What do we call the big bright light in the sky at night?::the sun::a star::the moon::a comet::C::The moon is the large glowing object we see at night. It reflects light from the Sun.
+113::What type of food gives us energy to play and run?::water::food (carbohydrates)::air::sunshine::B::Foods like bread, rice, and pasta give us energy (carbohydrates) to run, play, and think.
+114::Which vehicle travels on water?::train::car::boat::bus::C::Boats travel on water. Different types include sailboats, motorboats, and ships.
+115::What do we call the home of a lion?::den::burrow::nest::stable::A::Lions rest and sleep in a den, which is a sheltered area like a cave or thick bushes.
+116::How many sides does a triangle have?::2::3::4::5::B::A triangle has exactly 3 sides and 3 corners (angles).
+117::Which body part do we use to kick a ball?::hands::arms::head::foot::D::We use our foot (and leg) to kick a ball in football (soccer) and other sports.
+118::What do we call frozen rain that falls as small white balls?::snow::sleet::hail::frost::C::Hail is formed when raindrops freeze in clouds and fall as small balls of ice.
+119::Which animal is known to be the smartest?::parrot::monkey::chimpanzee::dolphin::C::Chimpanzees are considered the most intelligent animals (after humans). They can use tools and solve problems.
+120::What do we use to tell the time?::ruler::thermometer::clock::compass::C::A clock shows us what time it is, with hands pointing to numbers on its face.
+121::What is the opposite of tall?::fat::thin::short::small::C::Tall and short are opposites used to describe height. A person who is not tall is short.
+122::Which animal has a hard shell on its back and is very slow?::snail::crab::turtle::lobster::C::Turtles have hard shells on their backs that protect them. They are famous for being very slow.
+123::What do we call rain, snow, sleet, and hail together?::evaporation::condensation::precipitation::transpiration::C::All forms of water that fall from clouds — rain, snow, sleet, hail — are called precipitation.
+124::How many sides does a rectangle have?::2::3::4::5::C::A rectangle has 4 sides — 2 long sides and 2 short sides, with 4 right-angle corners.
+125::Which country is known as the Land of the Rising Sun?::China::India::Japan::Korea::C::Japan is called the Land of the Rising Sun because it is located far to the east where the sun rises early.
+126::What do we call the liquid that comes from trees and is used to make rubber?::sap::resin::latex::gum::C::Latex is a milky liquid from rubber trees used to make natural rubber products like gloves and tires.
+127::Which bird cannot fly but can swim very fast?::ostrich::eagle::penguin::peacock::C::Penguins cannot fly, but they are excellent swimmers and use their flippers to speed through the water.
+128::What do cows eat?::meat::fish::grass::bread::C::Cows are herbivores that eat grass, hay, and other plants. They are not meat eaters.
+129::What is the home of an Eskimo (Inuit) made from ice called?::igloo::tepee::cottage::bungalow::A::An igloo is a dome-shaped shelter made from blocks of ice and snow, used by Inuit people in cold Arctic regions.
+130::Which organ in our body do we use to think?::heart::lungs::brain::stomach::C::The brain is the organ we use to think, learn, remember, and control our body movements.
+131::What is 6 + 4?::8::9::10::11::C::6 + 4 = 10. Six plus four makes ten — a nice round number!
+132::Which animal is known for storing food in its cheeks?::rabbit::squirrel::hamster::mouse::C::Hamsters stuff food into their cheek pouches to carry back to their nest for storage.
+133::What do we call the place where books are kept and you can borrow them?::museum::bookstore::library::school::C::A library is a place where books are organized and people can borrow them for free to read at home.
+134::What do we call the scientist who studies the stars and planets?::biologist::geologist::astronomer::meteorologist::C::An astronomer is a scientist who studies space, including stars, planets, galaxies, and other celestial objects.
+135::Which color is NOT in a rainbow?::red::green::pink::yellow::C::A rainbow has 7 colors (red, orange, yellow, green, blue, indigo, violet). Pink is not one of them.
+136::What sound does a lion make?::bark::roar::hiss::growl::B::A lion roars — a very loud sound used to communicate and warn others. It can be heard from far away.
+137::What is the opposite of fast?::big::slow::small::loud::B::Fast and slow are opposites of speed. A cheetah is fast; a snail is slow.
+138::How many legs does an insect have?::4::6::8::10::B::All insects have exactly 6 legs. This is one of the main features that makes them insects.
+139::What do we call a baby horse?::calf::pup::lamb::foal::D::A baby horse is called a foal. A baby cow is a calf; a baby sheep is a lamb.
+140::Which planet has beautiful rings around it?::Jupiter::Mars::Saturn::Uranus::C::Saturn has stunning rings made of ice and rock that circle around it. They are visible with a telescope.
+141::What color is a carrot?::red::purple::orange::yellow::C::Carrots are orange vegetables that grow underground. They are crunchy and sweet.
+142::How many hours are in one day?::12::20::24::48::C::A full day has 24 hours. It is divided into 12 hours of daytime and 12 hours of nighttime.
+143::What do we call the person who flies into space?::pilot::astronaut::sailor::aviator::B::An astronaut is a specially trained person who travels into outer space on spacecraft.
+144::Which is the smallest planet in our solar system?::Mars::Earth::Pluto::Mercury::D::Mercury is the smallest planet in our solar system and is closest to the Sun.
+145::What do we call a house made of ice?::cabin::chalet::igloo::lodge::C::An igloo is a dome-shaped house made from blocks of ice, used by Inuit people in the Arctic.
+146::Which animal is called man's best friend?::cat::horse::dog::parrot::C::Dogs are called "man's best friend" because they are loyal, loving, and have lived with humans for thousands of years.
+147::What do plants need to grow? (Choose the most important group)?::love and music::sunlight, water, and soil::TV and light::wind and rocks::B::Plants need three main things to grow: sunlight for energy, water for nutrients, and soil to grow roots in.
+148::What do we call the doctor who takes care of our teeth?::surgeon::optician::dentist::dermatologist::C::A dentist is a doctor who specializes in taking care of teeth, gums, and the mouth.
+149::Which bird is known for its beautiful colorful tail feathers?::flamingo::parrot::peacock::toucan::C::The peacock (male) has stunningly long, colorful tail feathers with eye-like patterns that it fans out to display.
+150::What is the hottest planet in our solar system?::Mercury::Mars::Jupiter::Venus::D::Venus is the hottest planet in our solar system, even though Mercury is closer to the Sun. Venus has thick clouds that trap heat.
+151::What do we call a group of fish swimming together?::herd::flock::pack::school::D::A group of fish swimming together is called a school of fish. Other groups: birds = flock, cows = herd.
+152::What type of animal is a whale?::fish::reptile::mammal::amphibian::C::Although whales live in water, they are mammals — they breathe air, give birth to live young, and nurse their babies.
+153::What do we call the outside protective layer of a tree?::leaf::root::bark::branch::C::Bark is the rough outer covering of a tree trunk and branches. It protects the tree from insects and weather.
+154::What is the color of the moon?::bright white::pale silver-grey::bright yellow::light blue::B::The Moon looks pale silver-grey in the sky. It has no light of its own — it reflects light from the Sun.
+155::Which fruit has seeds inside and comes in red, green, or purple clusters?::strawberry::watermelon::grapes::cherry::C::Grapes are small fruits that grow in clusters on vines. They come in red, green, and purple varieties.
+156::How many minutes are in one hour?::30::45::60::90::C::There are 60 minutes in one hour. A clock's long (minute) hand takes 60 minutes to go around once.
+157::What do we call the home of a rabbit?::den::burrow::nest::hutch::B::Wild rabbits live in underground tunnels called burrows. Pet rabbits live in a hutch.
+158::What is the largest bird in the world?::eagle::penguin::ostrich::flamingo::C::The ostrich is the world's largest bird. It cannot fly but can run very fast on its two long legs.
+159::Which animal can live both in water and on land?::fish::frog::turtle::whale::C::Wait — both frogs and turtles can live in water and on land, but frogs are the classic amphibian example. Turtles also qualify.::B::Frogs are amphibians — animals that can live both in water and on land. They breathe through gills as tadpoles and lungs as adults.
+160::What do we call a person who writes books?::journalist::poet::author::editor::C::An author is a person who writes books, stories, or other written works.
+161::Which color is the deepest part of the ocean?::light blue::bright green::dark blue/black::turquoise::C::Very deep ocean water appears very dark blue or almost black because sunlight cannot reach that far down.
+162::What do we call the white trail left by an airplane in the sky?::cloud::contrail::rainbow::streak::B::The white trail left by an airplane is called a contrail (condensation trail). It forms when hot jet exhaust meets cold air.
+163::Which animal is covered in quills (sharp spines) for protection?::skunk::porcupine::hedgehog::armadillo::B::Porcupines are covered in sharp quills (spines) that stick into predators, protecting them from danger.
+164::What is the name of the imaginary line around the middle of the Earth?::prime meridian::tropic of cancer::equator::arctic circle::C::The equator is an imaginary line that runs around the middle of the Earth, dividing it into the Northern and Southern Hemispheres.
+165::What do we call the sound produced by thunder?::lightning::rumble::thunder::crash::C::Thunder is the loud rumbling or crashing sound that follows lightning during a storm. It is caused by rapidly expanding air.
+166::Which sense tells us if something is rough or smooth?::taste::smell::sight::touch::D::Our sense of touch (through skin and fingers) tells us if something is rough, smooth, hot, cold, or painful.
+167::What is 5 + 5?::8::9::10::11::C::5 + 5 = 10. This is the doubles fact for five.
+168::Which animal is known for spraying a bad smell when scared?::raccoon::skunk::opossum::badger::B::Skunks spray a powerful, terrible-smelling liquid from their tail when they feel threatened by predators.
+169::What do we call the scientist who studies weather?::astronomer::geologist::meteorologist::biologist::C::A meteorologist is a scientist who studies the weather and makes weather forecasts for us.
+170::Which continent is the largest in the world?::Africa::Australia::Europe::Asia::D::Asia is the largest continent in the world, covering about 30% of Earth's total land area.
+171::What do we call a young sheep?::calf::foal::lamb::kid::C::A baby sheep is called a lamb. Lambs are known for being fluffy and cute.
+172::How many seconds are in one minute?::30::45::60::100::C::There are 60 seconds in one minute. A clock's second hand takes 60 seconds to go around once.
+173::Which instrument has black and white keys and you press them to make music?::guitar::violin::drum::piano::D::A piano has black and white keys. When you press a key, a small hammer inside hits a string to make a sound.
+174::What do we call the path the Earth takes around the Sun?::rotation::revolution/orbit::eclipse::trajectory::B::The path Earth travels around the Sun is called its orbit. Earth takes 365 days (one year) to complete one orbit.
+175::What is the capital city of the United States of America?::New York::Los Angeles::Washington D.C.::Chicago::C::Washington D.C. (District of Columbia) is the capital city of the United States where the President lives and works.
+176::Which animal makes silk?::spider::caterpillar::butterfly::silkworm::D::Silkworms spin silk threads to make their cocoons. These threads are used to make silk fabric.
+177::What is the opposite of empty?::hollow::open::full::light::C::Empty and full are opposites. An empty glass has nothing in it; a full glass is completely filled.
+178::Which body part protects our brain?::spine::ribs::skull::sternum::C::The skull is the bony structure that surrounds and protects the brain from injury.
+179::What do we call a person who paints pictures?::sculptor::architect::artist/painter::designer::C::An artist or painter is someone who creates paintings and other visual artwork.
+180::Which fruit is green outside and red inside with black seeds?::mango::papaya::watermelon::kiwi::C::A watermelon is green on the outside, bright red inside, and has small black seeds throughout.
+181::What language do people in France mainly speak?::Spanish::English::French::Italian::C::People in France mainly speak French. France is in Western Europe and Paris is its capital.
+182::Which animal is the symbol of peace?::eagle::dove::swan::crane::B::A white dove is the international symbol of peace and harmony.
+183::What do we call the hard white parts in our mouth that we use to chew food?::gums::tongue::lips::teeth::D::Teeth are the hard white structures in our mouth that help us bite and chew our food.
+184::What do we call a large area of salty water?::river::lake::pond::ocean::D::An ocean is a huge body of salty water. Earth has 5 oceans: Pacific, Atlantic, Indian, Southern, and Arctic.
+185::Which day comes before Friday?::Wednesday::Saturday::Thursday::Sunday::C::The days of the week go: ...Wednesday, Thursday, Friday... Thursday comes just before Friday.
+186::What do we call the bright colored arch we see in the sky after rain?::cloud::aurora::rainbow::halo::C::A rainbow is a colorful arch that appears in the sky when sunlight shines through water droplets after rain.
+187::How many eyes does a spider have?::2::4::6::8::D::Most spiders have 8 eyes, though some have fewer. Having many eyes helps them see in many directions.
+188::Which country does the kangaroo come from?::India::South Africa::Brazil::Australia::D::Kangaroos are native to Australia. They are the national symbol of Australia and appear on its coat of arms.
+189::What do we call a map of the whole world that is shaped like a ball?::atlas::globe::compass::diagram::B::A globe is a spherical (ball-shaped) model of the Earth that shows countries, oceans, and continents.
+190::What do we call the water that flows from a mountain and into rivers?::reservoir::spring::stream::fountain::C::A stream is a small, flowing body of water that comes down mountains and feeds into rivers.
+191::Which animal is the symbol of the United States of America?::eagle::buffalo::bear::wolf::A::The bald eagle is the national symbol (bird) of the United States of America. It represents freedom and strength.
+192::What do we call the mixture of gases that surrounds the Earth?::ozone::atmosphere::stratosphere::cloud::B::The atmosphere is the layer of gases (air) that surrounds the Earth and protects us from the Sun's harmful rays.
+193::What is the last letter of the English alphabet?::X::Y::Z::W::C::The English alphabet ends with the letter Z. "Now I know my ABCs — won't you come and sing with me!"
+194::Which vegetable is orange and grows under the ground?::potato::carrot::radish::turnip::B::Carrots are orange root vegetables that grow underground. They are pulled out of the soil when harvested.
+195::What do we call a person who works on a farm growing food?::chef::baker::farmer::gardener::C::A farmer works on a farm, growing crops and raising animals to produce food for people to eat.
+196::What is the opposite of loud?::soft::small::thin::bright::A::Loud and soft (or quiet) are opposites of sound level. A whisper is soft; a shout is loud.
+197::Which insect lights up at night?::moth::firefly::cricket::dragonfly::B::Fireflies (also called lightning bugs) can produce light in their abdomen, creating a magical glow at night.
+198::What do we call a scientist who digs up old bones and fossils to learn about the past?::archaeologist::geologist::paleontologist::anthropologist::C::A paleontologist studies dinosaur bones, fossils, and ancient life forms to learn about creatures that lived long ago.
+199::Which country built the Great Wall?::India::Egypt::China::Greece::C::The Great Wall of China was built in ancient China to protect the country from invasions. It stretches thousands of miles.
+200::What do we call the frozen water that falls from the sky in cold weather?::hail::frost::sleet::snow::D::Snow is frozen water that falls as soft white flakes from clouds during cold weather.

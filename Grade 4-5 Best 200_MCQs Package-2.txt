@@ -1,0 +1,200 @@
+1::What is the capital of France?::London::Paris::Rome::Berlin::B::Paris is the capital city of France.
+2::Which planet is known as the Red Planet?::Earth::Mars::Venus::Jupiter::B::Mars is called the Red Planet because of its reddish appearance.
+3::How many days are in a week?::5::6::7::8::C::A week has 7 days.
+4::Which animal is known as the King of the Jungle?::Tiger::Elephant::Lion::Bear::C::The lion is often called the King of the Jungle.
+5::What is the largest ocean on Earth?::Atlantic Ocean::Indian Ocean::Arctic Ocean::Pacific Ocean::D::The Pacific Ocean is the largest ocean.
+6::Which bird cannot fly?::Eagle::Parrot::Penguin::Sparrow::C::Penguins are flightless birds.
+7::How many continents are there?::5::6::7::8::C::There are 7 continents.
+8::What is the capital of Japan?::Seoul::Beijing::Tokyo::Bangkok::C::Tokyo is the capital of Japan.
+9::Which gas do plants use to make food?::Oxygen::Carbon Dioxide::Nitrogen::Hydrogen::B::Plants use carbon dioxide during photosynthesis.
+10::How many hours are in a day?::12::18::24::36::C::A day has 24 hours.
+11::Which is the largest planet in our solar system?::Saturn::Earth::Jupiter::Mars::C::Jupiter is the largest planet.
+12::Which animal is the tallest in the world?::Elephant::Horse::Camel::Giraffe::D::The giraffe is the tallest animal.
+13::What is the freezing point of water?::0°C::10°C::50°C::100°C::A::Water freezes at 0°C.
+14::Which country is famous for the pyramids?::India::China::Egypt::Brazil::C::Egypt is famous for the pyramids.
+15::Which is the fastest land animal?::Lion::Cheetah::Tiger::Horse::B::The cheetah is the fastest land animal.
+16::How many months are in a year?::10::11::12::13::C::There are 12 months in a year.
+17::Which star is closest to Earth?::Polaris::Sirius::Sun::Vega::C::The Sun is the closest star to Earth.
+18::What do bees make?::Milk::Honey::Cheese::Butter::B::Bees produce honey.
+19::Which continent is the Sahara Desert located on?::Asia::Africa::Europe::Australia::B::The Sahara Desert is in Africa.
+20::How many legs does a spider have?::6::8::10::12::B::Spiders have 8 legs.
+21::Which is the largest mammal?::Elephant::Blue Whale::Shark::Giraffe::B::The blue whale is the largest mammal.
+22::Which country is known as the Land of the Rising Sun?::China::Japan::India::Korea::B::Japan is known as the Land of the Rising Sun.
+23::Which instrument measures temperature?::Barometer::Thermometer::Compass::Scale::B::A thermometer measures temperature.
+24::How many colors are there in a rainbow?::5::6::7::8::C::A rainbow has 7 colors.
+25::Which planet do we live on?::Venus::Mars::Earth::Saturn::C::Humans live on Earth.
+26::Which organ pumps blood through the body?::Brain::Lungs::Heart::Kidney::C::The heart pumps blood.
+27::What is H2O commonly known as?::Salt::Sugar::Water::Air::C::H2O is water.
+28::Which animal is known for carrying its baby in a pouch?::Horse::Dog::Kangaroo::Bear::C::Kangaroos carry their babies in a pouch.
+29::What is the capital of Canada?::Toronto::Ottawa::Vancouver::Montreal::B::Ottawa is Canada's capital.
+30::Which planet has rings around it?::Mercury::Venus::Saturn::Mars::C::Saturn is famous for its rings.
+31::What is the largest continent?::Africa::Europe::Asia::Australia::C::Asia is the largest continent.
+32::Which animal is called man's best friend?::Cat::Horse::Dog::Rabbit::C::Dogs are known as man's best friend.
+33::Which vitamin do we get from sunlight?::Vitamin A::Vitamin B::Vitamin C::Vitamin D::D::Sunlight helps the body make Vitamin D.
+34::Which is the smallest continent?::Europe::Australia::Africa::South America::B::Australia is the smallest continent.
+35::How many teeth does an adult usually have?::28::30::32::36::C::Most adults have 32 teeth.
+36::Which country gifted the Statue of Liberty to the United States?::England::France::Spain::Italy::B::France gifted the Statue of Liberty.
+37::What is the national sport of Canada?::Basketball::Ice Hockey::Soccer::Baseball::B::Ice hockey is Canada's national winter sport.
+38::What is the largest bird in the world?::Eagle::Ostrich::Penguin::Parrot::B::The ostrich is the largest bird.
+39::Which ocean is between Africa and Australia?::Atlantic Ocean::Indian Ocean::Pacific Ocean::Arctic Ocean::B::The Indian Ocean lies between Africa and Australia.
+40::Which blood cells help fight diseases?::Red blood cells::White blood cells::Platelets::Plasma::B::White blood cells fight infections.
+41::Which is the hottest planet?::Mercury::Mars::Venus::Saturn::C::Venus is the hottest planet because of its thick atmosphere.
+42::Which country has the Great Wall?::Japan::India::China::Russia::C::The Great Wall is in China.
+43::Which gas do humans breathe in?::Carbon dioxide::Nitrogen::Hydrogen::Oxygen::D::Humans breathe oxygen.
+44::What is the currency of the United States?::Euro::Pound::Dollar::Yen::C::The United States uses the dollar.
+45::Which is the largest island in the world?::Madagascar::Greenland::Borneo::New Guinea::B::Greenland is the world's largest island.
+46::How many players are on a soccer team on the field?::9::10::11::12::C::There are 11 players on each soccer team.
+47::Which animal is the largest land animal?::Rhino::Elephant::Hippo::Camel::B::The elephant is the largest land animal.
+48::What is the capital of Australia?::Sydney::Melbourne::Canberra::Perth::C::Canberra is Australia's capital.
+49::Which is the hardest natural substance?::Iron::Diamond::Gold::Silver::B::Diamond is the hardest natural substance.
+50::Which planet is closest to the Sun?::Venus::Mercury::Earth::Mars::B::Mercury is closest to the Sun.
+51::Which river is the longest in the world?::Amazon River::Yangtze River::Nile River::Mississippi River::C::The Nile River is generally considered the longest river in the world.
+52::Which planet is known for its Great Red Spot?::Mars::Jupiter::Saturn::Venus::B::Jupiter has a giant storm called the Great Red Spot.
+53::Who invented the telephone?::Thomas Edison::Alexander Graham Bell::Nikola Tesla::Benjamin Franklin::B::Alexander Graham Bell invented the telephone.
+54::What is the largest desert in the world?::Sahara Desert::Arabian Desert::Gobi Desert::Antarctic Desert::D::Antarctica is the largest desert because it receives very little precipitation.
+55::Which landmark is located in India?::Big Ben::Eiffel Tower::Taj Mahal::Statue of Liberty::C::The Taj Mahal is located in Agra, India.
+56::Which sport uses a bat and wickets?::Baseball::Cricket::Tennis::Golf::B::Cricket is played with a bat and wickets.
+57::Which animal is known for changing its color?::Elephant::Kangaroo::Chameleon::Horse::C::Chameleons can change color to blend with their surroundings.
+58::Which country is famous for the Eiffel Tower?::Italy::France::Spain::Germany::B::The Eiffel Tower is in Paris, France.
+59::Which scientist discovered gravity after observing a falling apple?::Albert Einstein::Isaac Newton::Galileo Galilei::Marie Curie::B::Isaac Newton developed the theory of gravity.
+60::What is the main source of energy for Earth?::Moon::Stars::Sun::Wind::C::The Sun provides most of Earth's energy.
+61::Which animal is the largest reptile?::Komodo Dragon::Alligator::Crocodile::Snake::C::The saltwater crocodile is the largest reptile.
+62::What is the capital of Brazil?::Rio de Janeiro::Brasilia::Sao Paulo::Salvador::B::Brasilia is the capital city of Brazil.
+63::Who invented the light bulb?::Albert Einstein::Thomas Edison::Isaac Newton::James Watt::B::Thomas Edison improved and popularized the light bulb.
+64::Which famous landmark is in Italy?::Colosseum::Great Wall::Big Ben::Sydney Opera House::A::The Colosseum is located in Rome, Italy.
+65::Which sport is played at Wimbledon?::Basketball::Baseball::Tennis::Hockey::C::Wimbledon is a famous tennis tournament.
+66::Which bird is a symbol of peace?::Crow::Dove::Owl::Eagle::B::The dove is commonly used as a symbol of peace.
+67::What is the boiling point of water at sea level?::50°C::75°C::100°C::150°C::C::Water boils at 100°C at sea level.
+68::Which country has the kangaroo as a national symbol?::New Zealand::Australia::Canada::South Africa::B::The kangaroo is one of Australia's national symbols.
+69::Who was the first person to walk on the Moon?::Buzz Aldrin::Yuri Gagarin::Neil Armstrong::John Glenn::C::Neil Armstrong walked on the Moon in 1969.
+70::Which is the largest volcano on Earth?::Mount Fuji::Mount Etna::Mauna Loa::Mount Vesuvius::C::Mauna Loa in Hawaii is the largest volcano on Earth.
+71::Which animal can sleep while standing up?::Horse::Rabbit::Cat::Monkey::A::Horses can sleep standing up.
+72::What is the smallest planet in our solar system?::Mars::Venus::Mercury::Neptune::C::Mercury is the smallest planet.
+73::Who invented the airplane?::Wright Brothers::Thomas Edison::Benjamin Franklin::Nikola Tesla::A::The Wright Brothers built and flew the first successful airplane.
+74::Which famous tower is located in London?::Leaning Tower of Pisa::CN Tower::Big Ben::Tokyo Tower::C::Big Ben is one of London's most famous landmarks.
+75::Which sport uses a shuttlecock?::Volleyball::Badminton::Tennis::Baseball::B::Badminton is played with a shuttlecock.
+76::Which sea creature has eight arms?::Jellyfish::Shark::Octopus::Whale::C::An octopus has eight arms.
+77::Which continent is known as the Frozen Continent?::Europe::Asia::Antarctica::Africa::C::Antarctica is covered with ice and snow.
+78::Which scientist developed the theory of relativity?::Isaac Newton::Albert Einstein::Charles Darwin::Galileo Galilei::B::Albert Einstein developed the theory of relativity.
+79::Which structure is called the Leaning Tower?::Leaning Tower of Pisa::Eiffel Tower::CN Tower::Big Ben::A::The Leaning Tower of Pisa is located in Italy.
+80::How many Olympic rings are there?::4::5::6::7::B::There are five Olympic rings representing the inhabited continents.
+81::Which animal is known for its black and white stripes?::Tiger::Zebra::Leopard::Giraffe::B::Zebras have black and white stripes.
+82::Which country is home to the Great Barrier Reef?::Australia::Brazil::India::Mexico::A::The Great Barrier Reef is off the coast of Australia.
+83::Who invented the printing press?::Johannes Gutenberg::Alexander Graham Bell::Thomas Edison::James Watt::A::Johannes Gutenberg invented the printing press.
+84::Which famous monument is in the United States?::Taj Mahal::Statue of Liberty::Colosseum::Great Wall::B::The Statue of Liberty is in New York Harbor.
+85::Which sport is known as the "king of sports"?::Basketball::Cricket::Soccer::Tennis::C::Soccer, or football, is the world's most popular sport.
+86::Which animal has the longest neck?::Horse::Camel::Giraffe::Elephant::C::The giraffe has the longest neck.
+87::Which country has the most population in the world?::India::China::United States::Indonesia::A::India has the largest population in the world.
+88::Which scientist proposed the heliocentric model of the solar system?::Galileo Galilei::Nicolaus Copernicus::Isaac Newton::Albert Einstein::B::Copernicus proposed that planets revolve around the Sun.
+89::Which famous landmark is found in Egypt?::Great Pyramid of Giza::Eiffel Tower::Big Ben::Sydney Opera House::A::The Great Pyramid of Giza is in Egypt.
+90::Which sport uses clubs and a small ball?::Cricket::Golf::Baseball::Rugby::B::Golf is played using clubs and a ball.
+91::Which animal is known for its hump?::Horse::Camel::Donkey::Zebra::B::Camels store fat in their humps.
+92::Which country is famous for maple syrup?::Canada::Mexico::Brazil::Spain::A::Canada is the world's leading producer of maple syrup.
+93::Who invented the steam engine?::James Watt::Thomas Edison::Nikola Tesla::Alexander Graham Bell::A::James Watt greatly improved the steam engine.
+94::Which famous building is in Sydney, Australia?::Opera House::Big Ben::Leaning Tower of Pisa::Colosseum::A::The Sydney Opera House is a world-famous landmark.
+95::Which sport is played with a puck?::Soccer::Basketball::Ice Hockey::Baseball::C::Ice hockey uses a puck instead of a ball.
+96::Which animal is the fastest bird?::Eagle::Peregrine Falcon::Ostrich::Parrot::B::The peregrine falcon is the fastest bird.
+97::Which country is known for tulips and windmills?::Belgium::Netherlands::Sweden::Norway::B::The Netherlands is famous for tulips and windmills.
+98::Who discovered penicillin?::Louis Pasteur::Alexander Fleming::Marie Curie::Charles Darwin::B::Alexander Fleming discovered penicillin in 1928.
+99::Which famous wall can be seen from space according to a common myth?::Berlin Wall::Great Wall of China::Hadrian's Wall::Western Wall::B::The Great Wall of China is often claimed in a myth to be visible from space, though it is generally not visible to the naked eye from low Earth orbit.
+100::Which sport is played on ice with skates and sticks?::Field Hockey::Lacrosse::Ice Hockey::Rugby::C::Ice hockey is played on ice using skates and sticks.
+101::Which planet is called the Blue Planet?::Mars::Earth::Venus::Mercury::B::Earth is known as the Blue Planet because of its abundant water.
+102::Which country is famous for pizza?::France::Italy::Spain::Germany::B::Italy is the birthplace of pizza.
+103::Who painted the Mona Lisa?::Pablo Picasso::Leonardo da Vinci::Vincent van Gogh::Michelangelo::B::Leonardo da Vinci painted the Mona Lisa.
+104::Which is the largest species of shark?::Great White Shark::Hammerhead Shark::Whale Shark::Tiger Shark::C::The whale shark is the largest shark species.
+105::Which gas is most abundant in Earth's atmosphere?::Oxygen::Carbon Dioxide::Nitrogen::Hydrogen::C::Nitrogen makes up about 78% of Earth's atmosphere.
+106::Which famous monument is located in Paris?::Big Ben::Eiffel Tower::Colosseum::Statue of Liberty::B::The Eiffel Tower is located in Paris, France.
+107::Which sport is played with a net, racket, and shuttlecock?::Tennis::Volleyball::Badminton::Baseball::C::Badminton is played with a shuttlecock.
+108::Which animal is known as the ship of the desert?::Horse::Camel::Elephant::Donkey::B::Camels are called the ship of the desert.
+109::Who discovered America in 1492?::Marco Polo::Christopher Columbus::Ferdinand Magellan::James Cook::B::Christopher Columbus reached the Americas in 1492.
+110::Which is the largest rainforest in the world?::Congo Rainforest::Daintree Rainforest::Amazon Rainforest::Sundarbans::C::The Amazon Rainforest is the largest tropical rainforest.
+111::Which instrument is used to measure earthquakes?::Barometer::Thermometer::Seismograph::Compass::C::A seismograph records earthquakes.
+112::What is the capital of South Korea?::Tokyo::Seoul::Beijing::Bangkok::B::Seoul is the capital of South Korea.
+113::Which scientist discovered radioactivity?::Marie Curie::Isaac Newton::Albert Einstein::Charles Darwin::A::Marie Curie conducted pioneering research on radioactivity.
+114::Which bird is the symbol of the United States?::Owl::Peacock::Bald Eagle::Parrot::C::The bald eagle is the national bird of the United States.
+115::What is the largest organ in the human body?::Heart::Brain::Skin::Liver::C::Skin is the largest organ of the human body.
+116::Which landmark is known as the symbol of love?::Big Ben::Eiffel Tower::Taj Mahal::Sydney Opera House::C::The Taj Mahal is often called a symbol of love.
+117::Which sport uses a hoop and ball?::Soccer::Basketball::Cricket::Golf::B::Basketball is played with a hoop and ball.
+118::Which mammal can fly?::Flying Squirrel::Bat::Penguin::Rabbit::B::Bats are the only mammals capable of true flight.
+119::Who invented the electric bulb?::Nikola Tesla::Thomas Edison::James Watt::Galileo Galilei::B::Thomas Edison developed a practical electric bulb.
+120::Which ocean is the smallest?::Indian Ocean::Pacific Ocean::Arctic Ocean::Atlantic Ocean::C::The Arctic Ocean is the smallest ocean.
+121::Which is the national flower of India?::Rose::Tulip::Lotus::Sunflower::C::The lotus is India's national flower.
+122::Which country has the Great Sphinx?::Greece::Egypt::Mexico::India::B::The Great Sphinx is located in Egypt.
+123::Who wrote "Romeo and Juliet"?::William Shakespeare::Charles Dickens::Mark Twain::J.K. Rowling::A::William Shakespeare wrote Romeo and Juliet.
+124::Which is the deepest ocean?::Atlantic Ocean::Indian Ocean::Arctic Ocean::Pacific Ocean::D::The Pacific Ocean is the deepest ocean.
+125::Which vitamin is found in oranges?::Vitamin A::Vitamin B::Vitamin C::Vitamin D::C::Oranges are rich in Vitamin C.
+126::Which structure is located in Rome?::Great Wall of China::Colosseum::Big Ben::Statue of Liberty::B::The Colosseum is in Rome, Italy.
+127::Which sport is associated with Wimbledon?::Golf::Basketball::Tennis::Rugby::C::Wimbledon is the oldest tennis tournament.
+128::Which animal has black spots and is the fastest land animal?::Tiger::Leopard::Cheetah::Jaguar::C::The cheetah is the fastest land animal.
+129::Who was the first President of the United States?::Abraham Lincoln::George Washington::John Adams::Thomas Jefferson::B::George Washington was the first President.
+130::What is the largest freshwater lake by surface area?::Lake Victoria::Lake Superior::Lake Baikal::Lake Michigan::B::Lake Superior is the largest freshwater lake by surface area.
+131::Which instrument shows direction?::Thermometer::Compass::Barometer::Scale::B::A compass is used for navigation.
+132::What is the capital of Spain?::Madrid::Barcelona::Lisbon::Rome::A::Madrid is the capital of Spain.
+133::Who discovered penicillin?::Alexander Fleming::Louis Pasteur::Marie Curie::Gregor Mendel::A::Alexander Fleming discovered penicillin in 1928.
+134::Which animal is the largest cat species?::Lion::Tiger::Leopard::Jaguar::B::The tiger is the largest cat species.
+135::What is the chemical symbol for gold?::Ag::Au::Fe::Pb::B::Au is the symbol for gold.
+136::Which landmark is found in New York City?::Statue of Liberty::Big Ben::Leaning Tower of Pisa::Taj Mahal::A::The Statue of Liberty is in New York Harbor.
+137::Which sport is played with clubs and holes?::Cricket::Baseball::Golf::Tennis::C::Golf involves clubs and holes.
+138::Which bird is known for mimicking sounds?::Eagle::Crow::Parrot::Penguin::C::Parrots can imitate sounds and speech.
+139::Who invented the telephone?::Alexander Graham Bell::Thomas Edison::Nikola Tesla::Benjamin Franklin::A::Alexander Graham Bell invented the telephone.
+140::Which is the tallest mountain in the world?::K2::Mount Everest::Kangchenjunga::Makalu::B::Mount Everest is the tallest mountain above sea level.
+141::Which planet is famous for its rings?::Venus::Saturn::Mercury::Mars::B::Saturn is famous for its ring system.
+142::Which country is shaped like a boot?::France::Italy::Spain::Portugal::B::Italy is often described as boot-shaped.
+143::Who developed the theory of evolution?::Albert Einstein::Charles Darwin::Isaac Newton::Galileo Galilei::B::Charles Darwin proposed the theory of evolution.
+144::Which reptile changes color?::Snake::Crocodile::Chameleon::Turtle::C::Chameleons can change color.
+145::What is the hardest substance in the human body?::Bone::Tooth Enamel::Hair::Nails::B::Tooth enamel is the hardest substance.
+146::Which famous structure is in India?::Taj Mahal::Big Ben::Colosseum::Eiffel Tower::A::The Taj Mahal is located in Agra, India.
+147::Which sport uses a puck?::Basketball::Soccer::Ice Hockey::Volleyball::C::Ice hockey is played with a puck.
+148::Which sea animal is the smartest?::Octopus::Dolphin::Whale::Seal::B::Dolphins are highly intelligent marine mammals.
+149::Who invented the airplane?::Wright Brothers::Thomas Edison::James Watt::Nikola Tesla::A::The Wright Brothers achieved the first powered flight.
+150::Which is the largest island country?::Japan::Indonesia::Madagascar::Greenland::B::Indonesia is the largest island country.
+151::Which gas helps balloons float?::Nitrogen::Helium::Oxygen::Hydrogen::B::Helium is lighter than air.
+152::What is the capital of Mexico?::Cancun::Mexico City::Monterrey::Guadalajara::B::Mexico City is the capital of Mexico.
+153::Who invented the printing press?::Johannes Gutenberg::Alexander Graham Bell::James Watt::Isaac Newton::A::Johannes Gutenberg invented the printing press.
+154::Which bird is the largest flying bird by wingspan?::Eagle::Albatross::Ostrich::Falcon::B::The wandering albatross has the largest wingspan.
+155::What is the smallest bone in the human body?::Femur::Stapes::Rib::Ulna::B::The stapes bone is located in the ear.
+156::Which landmark is located in Australia?::Sydney Opera House::Big Ben::Great Wall::Colosseum::A::The Sydney Opera House is in Sydney, Australia.
+157::Which sport is played on horseback?::Rugby::Polo::Tennis::Hockey::B::Polo is played on horseback.
+158::Which insect produces silk?::Butterfly::Silkworm::Bee::Ant::B::Silkworms produce silk fibers.
+159::Who invented the steam engine?::James Watt::Thomas Edison::Alexander Graham Bell::Albert Einstein::A::James Watt improved the steam engine.
+160::Which continent has the most countries?::Europe::Asia::Africa::South America::C::Africa has 54 recognized countries.
+161::Which instrument measures air pressure?::Barometer::Thermometer::Compass::Scale::A::A barometer measures atmospheric pressure.
+162::What is the capital of Argentina?::Buenos Aires::Lima::Santiago::Bogota::A::Buenos Aires is the capital of Argentina.
+163::Who discovered radium?::Marie Curie::Isaac Newton::Albert Einstein::Gregor Mendel::A::Marie Curie and Pierre Curie discovered radium.
+164::Which animal is known for its long memory?::Elephant::Lion::Horse::Tiger::A::Elephants are known for their excellent memory.
+165::Which metal is liquid at room temperature?::Iron::Mercury::Silver::Copper::B::Mercury is liquid at room temperature.
+166::Which landmark is located in London?::Big Ben::Taj Mahal::Colosseum::Sydney Opera House::A::Big Ben is a famous landmark in London.
+167::Which sport is played with a cue and balls?::Golf::Billiards::Basketball::Rugby::B::Billiards is played with a cue stick and balls.
+168::Which animal is known for building dams?::Otter::Beaver::Seal::Fox::B::Beavers build dams using wood and mud.
+169::Who invented the World Wide Web?::Bill Gates::Tim Berners-Lee::Steve Jobs::Mark Zuckerberg::B::Tim Berners-Lee invented the World Wide Web.
+170::Which country is famous for tulips?::Belgium::Netherlands::Germany::Sweden::B::The Netherlands is famous for tulips and windmills.
+171::Which planet is the largest in our solar system?::Earth::Saturn::Jupiter::Neptune::C::Jupiter is the largest planet in our solar system.
+172::What is the capital of South Africa?::Johannesburg::Cape Town::Pretoria::Durban::C::Pretoria is one of South Africa's capital cities and serves as the administrative capital.
+173::Who invented the light bulb?::Thomas Edison::Nikola Tesla::Alexander Graham Bell::James Watt::A::Thomas Edison developed a practical incandescent light bulb.
+174::Which animal is known as the King of the Jungle?::Tiger::Elephant::Lion::Leopard::C::The lion is commonly called the King of the Jungle.
+175::Which gas do plants absorb from the atmosphere?::Oxygen::Nitrogen::Carbon Dioxide::Hydrogen::C::Plants absorb carbon dioxide for photosynthesis.
+176::Which landmark is located in Paris, France?::Big Ben::Eiffel Tower::Colosseum::Taj Mahal::B::The Eiffel Tower is one of the most famous landmarks in France.
+177::Which sport uses a bat and wickets?::Baseball::Cricket::Tennis::Golf::B::Cricket is played using a bat, ball, and wickets.
+178::Which bird is known for its ability to mimic human speech?::Penguin::Eagle::Parrot::Owl::C::Parrots can imitate sounds and human speech.
+179::Who discovered gravity after observing a falling apple?::Albert Einstein::Isaac Newton::Galileo Galilei::Charles Darwin::B::Isaac Newton formulated the law of gravity.
+180::Which is the largest hot desert in the world?::Gobi Desert::Kalahari Desert::Sahara Desert::Arabian Desert::C::The Sahara Desert is the largest hot desert on Earth.
+181::Which instrument is used to measure temperature?::Barometer::Thermometer::Compass::Scale::B::A thermometer is used to measure temperature.
+182::What is the capital of Turkey?::Istanbul::Ankara::Izmir::Bursa::B::Ankara is the capital city of Turkey.
+183::Who painted the ceiling of the Sistine Chapel?::Leonardo da Vinci::Pablo Picasso::Michelangelo::Raphael::C::Michelangelo painted the famous ceiling of the Sistine Chapel.
+184::Which animal is the tallest in the world?::Elephant::Camel::Giraffe::Horse::C::The giraffe is the tallest land animal.
+185::Which vitamin is produced in the skin when exposed to sunlight?::Vitamin A::Vitamin B12::Vitamin C::Vitamin D::D::Sunlight helps the body produce Vitamin D.
+186::Which famous landmark is found in India?::Great Wall of China::Taj Mahal::Big Ben::Sydney Opera House::B::The Taj Mahal is located in Agra, India.
+187::Which sport is played with a racket and a shuttlecock?::Volleyball::Badminton::Baseball::Soccer::B::Badminton is played using a shuttlecock and rackets.
+188::Which insect makes honey?::Ant::Butterfly::Bee::Grasshopper::C::Bees produce honey from flower nectar.
+189::Who was the first person to step on the Moon?::Buzz Aldrin::Neil Armstrong::Yuri Gagarin::John Glenn::B::Neil Armstrong became the first person to walk on the Moon in 1969.
+190::Which ocean is located between Africa, Asia, and Australia?::Atlantic Ocean::Pacific Ocean::Indian Ocean::Arctic Ocean::C::The Indian Ocean lies between Africa, Asia, and Australia.
+191::Which blood cells help fight infections?::Red blood cells::White blood cells::Platelets::Plasma::B::White blood cells protect the body from diseases.
+192::What is the capital of New Zealand?::Auckland::Christchurch::Wellington::Hamilton::C::Wellington is the capital city of New Zealand.
+193::Who invented the telephone?::Thomas Edison::Alexander Graham Bell::Nikola Tesla::Benjamin Franklin::B::Alexander Graham Bell invented the telephone.
+194::Which animal is the largest mammal on Earth?::Elephant::Blue Whale::Giraffe::Hippopotamus::B::The blue whale is the largest mammal known to have lived.
+195::Which metal is used in electrical wires because it conducts electricity well?::Iron::Copper::Lead::Zinc::B::Copper is widely used in electrical wiring due to its excellent conductivity.
+196::Which famous landmark is located in China?::Statue of Liberty::Great Wall of China::Colosseum::Big Ben::B::The Great Wall of China is one of the world's most famous structures.
+197::Which sport is known as the "gentleman's game"?::Soccer::Basketball::Cricket::Tennis::C::Cricket is often referred to as the gentleman's game.
+198::Which sea creature has eight arms?::Starfish::Jellyfish::Octopus::Crab::C::An octopus has eight arms and is highly intelligent.
+199::Who developed the theory of relativity?::Isaac Newton::Albert Einstein::Galileo Galilei::Nikola Tesla::B::Albert Einstein developed the theory of relativity.
+200::Which country is home to the Great Barrier Reef?::South Africa::Australia::Brazil::Canada::B::The Great Barrier Reef is located off the coast of Australia.
